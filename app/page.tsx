@@ -25,22 +25,22 @@ export default function page() {
       <Bai6></Bai6>
       <h1>Bài tập 7</h1>
       <div className="flex m-6 gap-7">
-        <Bai7 variant="primary" className="Primary"></Bai7>
-        <Bai7 variant="success" className="Success"></Bai7>
-        <Bai7 variant="warning" className="Warning"></Bai7>
-        <Bai7 variant="danger" className="Danger"></Bai7>
+        <Bai7 variant="primary"></Bai7>
+        <Bai7 variant="success"></Bai7>
+        <Bai7 variant="warning"></Bai7>
+        <Bai7 variant="danger"></Bai7>
       </div>
       <h1>Bài tập 8</h1>
       <Bai8></Bai8>
       <h1>Bài tập 9</h1>
       <div className="m-6">
-        <Bai9 type="suc" className="Success Text"></Bai9>
+        <Bai9 type="suc"></Bai9>
         <br />
-        <Bai9 type="info" className="Info Text"></Bai9>
+        <Bai9 type="info"></Bai9>
         <br />
-        <Bai9 type="warn" className="Warning Text"></Bai9>
+        <Bai9 type="warn"></Bai9>
         <br />
-        <Bai9 type="error" className="Error Text"></Bai9>
+        <Bai9 type="error"></Bai9>
       </div>
       <h1>Bài tập 10</h1>
       <div className="w-72 border-solid border-2 border-gray-300 m-6 text-center">
