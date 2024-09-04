@@ -25,10 +25,10 @@ export default function page() {
       <Bai6></Bai6>
       <h1>Bài tập 7</h1>
       <div className="flex m-6 gap-7">
-        <Bai7 variant="primary" children="Primary"></Bai7>
-        <Bai7 variant="success" children="Success"></Bai7>
-        <Bai7 variant="warning" children="Warning"></Bai7>
-        <Bai7 variant="danger" children="Danger"></Bai7>
+        <Bai7 variant="primary"></Bai7>
+        <Bai7 variant="success"></Bai7>
+        <Bai7 variant="warning"></Bai7>
+        <Bai7 variant="danger"></Bai7>
       </div>
       <h1>Bài tập 8</h1>
       <Bai8></Bai8>
